@@ -1,0 +1,22 @@
+{
+  "name": "react_course",
+  "version": "1.0.0",
+  "description": "study course",
+  "main": "index.js",
+  "devDependencies": {
+    "serve": "^13.0.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {},
+  "author": "gochicus",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gochicus/react-refresher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gochicus/react-refresher/issues"
+  },
+  "homepage": "https://github.com/gochicus/react-refresher#readme"
+}
